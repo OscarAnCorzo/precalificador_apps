@@ -1,3 +1,3 @@
 # regresor_estimador
-Amarisgay.jpg
+AndresGayDelNorte.jpg
 Proyecto de IA
