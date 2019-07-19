@@ -5,6 +5,6 @@ En problemas similares hemos encontrado que utilizan metodos de clasificacion, e
 
 ## Integrantes del grupo de trabajo:
 * Oscar Andres Corzo
-* Nelson
+* Nelson Amaris
 * Juan Ricardo Albarracin
 * Luisa Fernanda Pabon Jaimes
