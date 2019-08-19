@@ -7,4 +7,4 @@ En problemas similares hemos encontrado que utilizan metodos de clasificacion, e
 * Oscar Andres Corzo
 * Nelson Amaris
 * Juan Ricardo Albarracin
-* Luisa Fernanda Pabon Jaimes
+
